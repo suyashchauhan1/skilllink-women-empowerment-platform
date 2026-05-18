@@ -153,8 +153,3 @@ SkillLink aims to:
 
 SkillLink envisions a future where employment becomes accessible regardless of education, language, or digital background.
 
----
-
-# Project Status
-
-Hackathon Prototype / MVP
